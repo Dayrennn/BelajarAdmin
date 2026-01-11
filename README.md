@@ -1,4 +1,4 @@
-Admin Dashboard UI (HTML & CSS)
+# Admin Dashboard UI (HTML & CSS)
 
 Admin Dashboard UI adalah project frontend statis yang dibuat sebagai media pembelajaran desain tampilan admin menggunakan HTML dan CSS.
 Project ini berfokus pada pemahaman struktur layout, penggunaan CSS untuk styling, serta perancangan antarmuka admin dashboard yang rapi dan mudah digunakan.
